@@ -1,0 +1,5 @@
+discord.py
+asyncpg
+asyncio
+aiohttp
+psycopg2-binary
