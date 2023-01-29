@@ -1,6 +1,12 @@
-[2023-01-28 05:36:59] [INFO    ] discord_bot: Loaded extension 'fun'
-[2023-01-28 05:36:59] [INFO    ] discord_bot: Loaded extension 'events'
-[2023-01-28 05:36:59] [INFO    ] discord_bot: Loaded extension 'moderation'
-[2023-01-28 05:36:59] [INFO    ] discord_bot: Loaded extension 'owner'
-[2023-01-28 05:36:59] [INFO    ] discord_bot: Loaded extension 'template'
-[2023-01-28 05:36:59] [INFO    ] discord_bot: Loaded extension 'general'
+[2023-01-30 01:00:55] [INFO    ] discord_bot: Loaded extension 'fun'
+[2023-01-30 01:00:55] [INFO    ] discord_bot: Loaded extension 'events'
+[2023-01-30 01:00:55] [INFO    ] discord_bot: Loaded extension 'moderation'
+[2023-01-30 01:00:55] [INFO    ] discord_bot: Loaded extension 'owner'
+[2023-01-30 01:00:55] [INFO    ] discord_bot: Loaded extension 'template'
+[2023-01-30 01:00:55] [INFO    ] discord_bot: Loaded extension 'general'
+[2023-01-30 01:00:58] [INFO    ] discord_bot: Logged in as Game Event Bot
+[2023-01-30 01:00:58] [INFO    ] discord_bot: discord.py API version: 2.1.0
+[2023-01-30 01:00:58] [INFO    ] discord_bot: Python version: 3.9.12
+[2023-01-30 01:00:58] [INFO    ] discord_bot: Running on: Darwin 22.2.0 (posix)
+[2023-01-30 01:00:58] [INFO    ] discord_bot: -------------------
+[2023-01-30 01:01:11] [INFO    ] discord_bot: Executed event command in Aliace4Development (ID: 1067182736718180474) by Aliace#2031 (ID: 410756194597339136)

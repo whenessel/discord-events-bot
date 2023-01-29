@@ -1,10 +1,15 @@
 {
   "prefix": "!",
-  "token": "MTA2NzMwNDU4Nzk0NzY3NTY4OA.G1s3Xu.fAObA44kok0AQh7wDl-pY6OARTLKjsxX0K6XL4",
+  "token": "MTA2OTIyNjY4NTU4MjU1NzIzNA.GeVUHs.5U3wchI8CiikMC2tt97BGeiBzoGaDs90bq2ZNo",
   "permissions": "8",
-  "application_id": "1649201380607",
+  "application_id": "1069226685582557234",
+  "public_key": "c8bf3e816b032b2332adf22f79489171d6f6286a29c39b3ace760a5928f9b7fc",
+  "client_id": "1069226685582557234",
+  "client_secret": "2808UnRp94tXm0Tr-2vyRZtfck1x1Rw6",
   "sync_commands_globally": false,
   "owners": [
     410756194597339136
-  ]
+  ],
+  "guild_id": "",
+  "channel_id": ""
 }
